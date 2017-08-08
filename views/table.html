@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table</title>
+    <link rel="stylesheet" type="text/css" href="../includes/css/bootstrap.css">
+    <script type="text/javascript" src="../includes/js/jquery.js"></script>
+    <script type="text/javascript" src="../includes/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" src="../includes/js/table.js"></script>
+</head>
+<body>
+
+<script>
+var b = <?php echo json_encode( $data[0] ); ?>;
+</script>
+<div class="table-responsive col-lg-12">
+    <table class="table-striped" id="tableau">
+        <thead>
+            <tr>Type de Couche</tr>
+            <tr>Dessin ?</tr>
+            <tr>Type d'objet</tr>
+            <tr>??</tr>
+            <tr>???</tr>
+            <tr>Ville</tr>
+        </thead>
+
+        <tfoot>
+            <tr>col1</tr>
+            <tr>col2</tr>
+            <tr>col3</tr>
+            <tr>col4</tr>
+            <tr>col5</tr>
+            <tr>col6</tr>
+        </tfoot>
+    </table>
+</div>
+
+</body>
+</html>

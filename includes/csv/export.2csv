@@ -1,0 +1,59 @@
+LINA;lina_po_parcelles_libres;[(fill, #00FF00), (stroke, #555555), (stroke-width, 0.1)];Parcelles Libres;Cadastre;Cadastre;Lyon
+LINA;lina_po_bati;[(fill, #222222)];Bati;Cadastre;Cadastre;Lyon
+LINA;lina_po_sect_cad;[(stroke, #B66838), (stroke-width, 2)];Secteurs cadastraux;Cadastre;Cadastre;Lyon
+LINA;lina_po_communes_label;[(font-family, Arial), (font-size, 16), (font-style, normal), (font-weight, bold), (fill, #000000)];Noms des communes;Noms;Noms;Lyon
+LINA;lina_po_sect_cad_label;[(font-family, Arial), (font-size, 16), (font-style, normal), (font-weight, bold), (fill, #000000)];Noms des secteurs cadastraux;Noms;Noms;Lyon
+LINA;lina_po_parcelles_label;[(font-family, Arial), (font-size, 8), (font-style, normal), (font-weight, bold), (fill, #000000)];Numéros des parcelles;Noms;Noms;Lyon
+LINA;lina_po_zonages_plu_agricole;[(fill, #ffffb3)];Zones agricoles (A);PLU / POS;Zones agricoles (A);Lyon
+LINA;lina_po_zonages_plu_habitat_futur_proche;[(fill, #ffb400)];Zones d'habitat futur à court terme (AU1);PLU / POS;Zones d'habitat futur à court terme (AU1);Lyon
+LINA;lina_po_zonages_plu_naturelle;[(fill, #b3de69)];Zones naturelles (N);PLU / POS;Zones naturelles (N);Lyon
+LINA;lina_po_zonages_plu_touristique_loisirs_urbain;[(fill, #ccebc5)];Zones touristiques ou de loisir en milieu urbain (UT);PLU / POS;Zones touristiques ou de loisir en milieu urbain (UT);Lyon
+LINA;lina_po_zonages_plu_activite_future;[(fill, #B00090)];Zones d'activité future (AUE);PLU / POS;Zones d'activité future (AUE);Lyon
+LINA;lina_po_zonages_plu_habitat_futur_loin;[(fill, #ffe16f)];Zones d'habitat futur à moyen / long terme (AU2);PLU / POS;Zones d'habitat futur à moyen / long terme (AU2);Lyon
+LINA;lina_po_zonages_plu_touristique_loisirs_naturelle;[(fill, #8dd3c7)];Zones touristiques ou de loisir en milieu naturel (NT);PLU / POS;Zones touristiques ou de loisir en milieu naturel (NT);Lyon
+LINA;lina_po_parcelles;[(stroke, #444444), (stroke-width, 0.1)];Parcelles;Cadastre;Cadastre;Lyon
+LINA;lina_po_zonages_plu_activite_existante_limites;[(stroke, #000000), (stroke-width, 2), (font-family, Arial), (font-size, 12), (font-style, normal), (font-weight, bold), (fill, #000000)];Zones d'activité existante (UE) (limites);PLU / POS;Zones d'activité existante (UE);Lyon
+LINA;lina_po_zonages_plu_touristique_loisirs_futur;[(fill, #1f78b4)];Zones touristiques ou de loisir futures (AUT);PLU / POS;Zones touristiques ou de loisir futures (AUT);Lyon
+LINA;lina_li_railways;[(stroke, #FABB00), (stroke-width, 5), (stroke-linejoin, round), (stroke, #FFFFFF), (stroke-width, 2.5), (stroke-linejoin, round), (stroke-dasharray, 8 12)];Voies ferrées;Réseaux de transports;Réseaux de transport;Lyon
+LINA;lina_li_tramway;[(stroke, #000000), (stroke-width, 5), (stroke-linejoin, round), (stroke, #FFFFFF), (stroke-width, 2.5), (stroke-linejoin, round), (stroke-dasharray, 8 12)];Voies de tramway;Réseaux de transports;Réseaux de transport;Lyon
+LINA;lina_li_vvv;[(stroke, #007000), (stroke-width, 3)];Voies vertes;Environnement;Environnement;Lyon
+LINA;lina_po_natura_2000;[(fill, #005500)];Natura 2000;Environnement;Zonages réglementaires;Lyon
+LINA;lina_po_etendue_eau;[(fill, #3191ff)];Etendue d'eau;Environnement;Réseau hydrographique;Lyon
+LINA;lina_li_troncon_hydro_permanent;[(stroke, #3191ff), (stroke-width, 3)];Cours d'eau permanents;Environnement;Réseau hydrographique;Lyon
+LINA;lina_po_zonages_anru;[(fill, #A4A400), (stroke, #000000), (stroke-width, 3)];Zonages ANRU;Zonages;Zonages ANRU;Lyon
+LINA;lina_po_zonages_anru_buffer;[(fill, #D7D700), (stroke, #000000), (stroke-width, 1), (stroke-dasharray, 5 2), (stroke-opacity, 0.5)];Zonages ANRU (300m);Zonages;Zonages ANRU;Lyon
+LINA;lina_po_zonages_znieff_1;[(fill, #5C5800)];ZNIEFF de type 1;Environnement;Zonages réglementaires;Lyon
+LINA;lina_po_zonages_znieff_2;[(fill, #293800)];ZNIEFF de type 2;Environnement;Zonages réglementaires;Lyon
+LINA;lina_li_troncon_hydro_intermittent;[(stroke, #3191ff), (stroke-width, 1.5), (stroke-dasharray, 5 2)];Cours d'eau intermittents;Environnement;Réseau hydrographique;Lyon
+LINA;lina_po_zonages_plu_activite_existante;[(fill, #AD74A3)];Zones d'activité existante (UE);PLU / POS;Zones d'activité existante (UE);Lyon
+LINA;lina_po_communes;[(stroke, #000000), (stroke-width, 5)];Communes;Cadastre;Cadastre;Lyon
+LINA;lina_po_risques_ppri_precaution;[(fill, #6baed6)];Zones des PPR Inondations (précaution);Risques naturels et technologiques;PPR Inondations;Lyon
+LINA;lina_po_risques_ppri_danger;[(fill, #fb6a4a)];Zones des PPR Inondations (danger);Risques naturels et technologiques;PPR Inondations;Lyon
+LINA;lina_po_zonages_plu_equipement_public;[(fill, #ff01e2)];Zones d'équipement public (UP);PLU / POS;Zones d'équipement public (UP);Lyon
+LINA;lina_po_zonages_plu_equipement_public_futur;[(fill, #ee9ee5)];Zones d'équipement public futures (AUP);PLU / POS;Zones d'équipement public futures (AUP);Lyon
+LINA;lina_po_contraintes_sites_classes_ou_inscrits;[(fill, #CCCCCC), (stroke, #000000), (stroke-width, 1)];Sites classés ou inscrits (SCI);Contraintes;Périmètres patrimoniaux;Lyon
+LINA;lina_po_contraintes_immeubles;[(fill, #FF5D00), (stroke, #000000), (stroke-width, 1)];Immeubles classés ou inscrits (ICI);Contraintes;Périmètres patrimoniaux;Lyon
+LINA;lina_po_contraintes_patrimoine_remarquable;[(fill, #f1a781)];Sites patrimoniaux remarquables (SPR);Contraintes;Périmètres patrimoniaux;Lyon
+LINA;lina_po_contraintes_protection_monument;[(fill, #e9dc1d)];Périmètres de protection autour des monuments historiques (PPMH);Contraintes;Périmètres patrimoniaux;Lyon
+LINA;lina_po_risques_pprt_danger;[(fill, #67000d)];Zones des PPR Technologiques  (danger);Risques naturels et technologiques;PPR Technologiques;Lyon
+LINA;lina_po_contraintes_zone_prevention;[(fill, #c9cc6d), (stroke, #000000), (stroke-width, 1)];Zones de prévention ;Prescriptions;Périmètres de risques de mouvements de terrain;Lyon
+LINA;lina_li_ligne_implantation_plu;[(stroke, #6f3938), (stroke-width, 2)];Ligne d'implantation;Prescriptions;Prescriptions (PLU du Grand Lyon);Lyon
+LINA;lina_po_contraintes_plantation_sur_domaine_public;[(fill, #93b646)];Espace végétalisé à mettre en valeur;Prescriptions;Patrimoine végétal et bâti;Lyon
+LINA;lina_po_risques_pprt_precaution;[(fill, #08306b)];Zones des PPR Technologiques (précaution);Risques naturels et technologiques;PPR Technologiques;Lyon
+LINA;lina_li_continuite_plu;[(stroke, #2a30d4), (stroke-width, 2)];Obligation de continuité;Prescriptions;Prescriptions (PLU du Grand Lyon);Lyon
+LINA;lina_li_discontinuite_plu;[(stroke, #ff23c8), (stroke-width, 2)];Obligation de discontinuité;Prescriptions;Prescriptions (PLU du Grand Lyon);Lyon
+LINA;lina_po_contraintes_emprise_localisation_pref_equipement;[(fill, #b52e0f)];Emprise de localisation preferentielle pour equipement;prescriptions;Servitudes L123-2;Lyon
+LINA;lina_po_contraintes_perimetre_delimite_des_abords;[(fill, #6a3d9a)];Périmètres délimités des abords (PDA);Contraintes;Périmètres patrimoniaux;Lyon
+LINA;lina_li_cheminement_a_preserver;[(stroke, #c40a16), (stroke-width, 2)];Cheminements à preserver;Prescriptions;Amenagements;Lyon
+LINA;lina_li_lineaire_toutes_activites_artisanal_commercial;[(stroke, #498d7a), (stroke-width, 2)];Linéaire toutes activités, linéaire artisanal et commercial;prescriptions;Activités économiques;Lyon
+LINA;lina_po_contraintes_reservation_programme_logement;[(fill, #c5a894), (stroke, #000000), (stroke-width, 1)];Réservation pour programme de logements;Prescriptions;Logements;Lyon
+LINA;lina_po_contraintes_prescription_archeo;[(fill, #a08949)];Zones de presomption de prescription archeologique (ZPPA);Contraintes;Périmètres patrimoniaux;Lyon
+LINA;lina_po_contraintes_richesse_sol_sous_sol;[(fill, #9b2e07), (stroke, #329b3a), (stroke-width, 2), (stroke-dasharray, 2 2)];Richesse du sol et sous sol;Prescriptions;Activités économiques;Lyon
+LINA;lina_po_contraintes_zone_vigilence;[(fill, #cf7b80)];Zones de vigilence;Prescriptions;Périmètres de risques de mouvements de terrain;Lyon
+LINA;lina_po_contraintes_polygones_implantations_batiments;[(fill, #cb181d)];Polygones d'implantations de bâtiments;Prescriptions;Prescriptions (PLU du Grand Lyon);Lyon
+LINA;lina_xy_debouche_pietonnier;[(fill, #864e69)];Débouché pietonnier;Prescriptions;Amenagements;Lyon
+LINA;lina_xy_debouche_voirie;[(fill, #3e1eb1)];Débouché de voirie;Prescriptions;Amenagements;Lyon
+LINA;lina_po_contraintes_orientation_amenagement;[(fill, #ae4e6b), (stroke, #000000), (stroke-width, 1)];Orientations d'aménagement;Prescriptions;Orientations d'aménagement;Lyon
+LINA;lina_po_contraintes_perimetre_attente_projet;[(fill, #ff0b50)];Périmètres d'attente de projets;Prescriptions;Servitudes L123-2;Lyon
+LINA;lina_po_contraintes_bati_a_preserver;[(fill, #7e2181)];Bâtis à préserver;prescriptions;Patrimoine végétal et bâti;Lyon
+LINA;lina_li_hauteur_voie_plu;[(stroke, #505050), (stroke-width, 4), (stroke, #89725B), (stroke-width, 3.6)];Hauteur sur voie ;Prescriptions;Prescriptions (PLU du Grand Lyon);Lyon
